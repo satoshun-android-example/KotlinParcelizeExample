@@ -3,8 +3,8 @@ object Vers {
   val min_sdk = 26
   val target_sdk = 28
 
-  val kotlin = "1.3.0-rc-190"
-  val couroutine = "1.0.0-RC1"
+  val kotlin = "1.3.0"
+  val couroutine = "1.0.0"
 }
 
 object Libs {
@@ -45,10 +45,10 @@ object Libs {
 
   val junit = "junit:junit:4.12"
   val truth = "com.google.truth:truth:0.42"
-  val test_rules = "androidx.test:rules:1.1.0-beta02"
-  val test_runner = "androidx.test:runner:1.1.0-beta02"
-  val test_junit_rules = "androidx.test.ext:junit:1.0.0-beta02"
+  val test_rules = "androidx.test:rules:1.1.0"
+  val test_runner = "androidx.test:runner:1.1.0"
+  val test_junit_rules = "androidx.test.ext:junit:1.0.0"
   val mockito_kotlin = "com.nhaarman:mockito-kotlin-kt1.1:1.5.0"
-  val espresso = "androidx.test.espresso:espresso-core:3.1.0-alpha4"
-  val robolectric = "org.robolectric:robolectric:4.0-beta-1"
+  val espresso = "androidx.test.espresso:espresso-core:3.1.0"
+  val robolectric = "org.robolectric:robolectric:4.0"
 }
